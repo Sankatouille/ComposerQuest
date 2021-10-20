@@ -1,0 +1,11 @@
+{
+    "name": "sanka/quete2",
+    "description": "jesaispas",
+    "autoload": {
+        "psr-4": {
+            "app\\":"src/Wcs"
+        }
+        
+    },
+    "require": {}
+}
